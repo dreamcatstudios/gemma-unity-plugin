@@ -5,7 +5,7 @@
     "description": "Unity integration for Gemma.cpp",
     "unity": "2022.3",
     "dependencies": {
-        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.10"
+        "com.cysharp.unitask": "2.5.10"
     },
     "keywords": [
         "gemma",
